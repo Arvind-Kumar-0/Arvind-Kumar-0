@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arvind-Kumar-0
 - 👀 I’m interested in UI/UX desingning
-- 🌱 I’m currently learning Flutter and Dart
-- 💞️ I’m looking to collaborate on Fluter projects
+- 🌱 I’m currently learning Flutter and Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me chintukadayan0@gmail.com
 
 <!---
